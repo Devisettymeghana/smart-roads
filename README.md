@@ -29,3 +29,6 @@ I have created a informational bot named "smart roads" using Html and services l
 
 ## Screenshorts:
 ![image](https://user-images.githubusercontent.com/113455993/193041066-49b50cfb-175f-4aa2-bf52-da087b72cd9b.png)
+![image](https://user-images.githubusercontent.com/113455993/193041650-b2975118-563b-4f11-afbb-924dcba58bd1.png)
+![image](https://user-images.githubusercontent.com/113455993/193042259-0d5124e9-14cf-4e1c-b14a-545a2cb7c5d0.png)
+
