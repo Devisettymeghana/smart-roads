@@ -28,3 +28,4 @@ I have created a informational bot named "smart roads" using Html and services l
 - Main concept that my bot gives;About smart roads,how it works,future,road development,improving road technology and detailed view of smart roads.
 
 ## Screenshorts:
+![image](https://user-images.githubusercontent.com/113455993/193041066-49b50cfb-175f-4aa2-bf52-da087b72cd9b.png)
