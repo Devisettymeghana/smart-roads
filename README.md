@@ -30,9 +30,9 @@ I have created a informational bot named "smart roads" using Html and services l
 ## Screenshorts:
 Home page
 ![image](https://user-images.githubusercontent.com/113455993/193041066-49b50cfb-175f-4aa2-bf52-da087b72cd9b.png)
-##chat bot
+## chat bot
 ![image](https://user-images.githubusercontent.com/113455993/193041650-b2975118-563b-4f11-afbb-924dcba58bd1.png) 
-##gallery
+## gallery
 ![image](https://user-images.githubusercontent.com/113455993/193042259-0d5124e9-14cf-4e1c-b14a-545a2cb7c5d0.png)
 ![image](https://user-images.githubusercontent.com/113455993/193042896-ea64b5c3-f39d-4f2d-9f28-9efa86157217.png)
 ![image](https://user-images.githubusercontent.com/113455993/193043081-d19188af-061c-4042-a06a-be9f8c163dad.png)
@@ -41,9 +41,9 @@ Home page
 ![image](https://user-images.githubusercontent.com/113455993/193043632-3a480a7c-305f-44bd-b040-e2e3b3cf586b.png)
 ![image](https://user-images.githubusercontent.com/113455993/193043847-766d1ea1-2efd-4024-816a-004a966f8e66.png)
 ![image](https://user-images.githubusercontent.com/113455993/193044027-901c7f5e-0f0b-449b-8163-44fce84df005.png)
-##Frequently asked questions 
+## Frequently asked questions 
 ![image](https://user-images.githubusercontent.com/113455993/193044183-f2122dc8-5641-4ee1-93f0-238f291210ed.png)
-##contact address
+## contact address
 
 ![image](https://user-images.githubusercontent.com/113455993/193400454-87bdb9bd-bf3c-447a-aad8-d50db0832e1f.png)
 
